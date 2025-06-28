@@ -2,3 +2,6 @@ php artisan make:model Laporan -m
 php artisan make:migration create_flights_table
 php artisan make:controller LaporanController
 laravel new asd-app
+php artisan key:generate
+composer install
+npm install
